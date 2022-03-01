@@ -5,7 +5,9 @@
 
 - 📫 How to reach me **PERSONAL: padmakshmishra@gmail.com OFFICIAL: padmaksh_2101cs@iitp.ac.in**
 
-- ⚡ Fun fact **I know you are reading this ٩(◕‿◕)۶**
+- ⚡ Fun fact **I keep on breaking my system ٩(◕‿◕)۶**
+
+- 😁 **I like linux** and madly keep on switching between distros
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

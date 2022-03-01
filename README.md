@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=padmaksh-mishra&label=Visitors&color=0e83be&style=flat" alt="padmaksh-mishra" /> </p>
 
-- 📫 How to reach me **PERSONAL: padmakshmishra@gmail.com OFFICIAL: padmaksh_2101cs@iitp.ac.in**
+- 📫 How to reach me **PERSONAL: padmakshmishra@gmail.com OFFICIAL: padmaksh_2101cs56@iitp.ac.in**
 
 - ⚡ Fun fact **I keep on breaking my system ٩(◕‿◕)۶**
 

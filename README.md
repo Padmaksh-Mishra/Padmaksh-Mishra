@@ -7,7 +7,7 @@
 
 - ⚡ Fun fact **I keep on breaking my system ٩(◕‿◕)۶**
 
-- 😁 **I like linux** and madly keep on switching between distros
+- 😁 **I like linux** and keep on trying various distros
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

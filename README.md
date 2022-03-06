@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm PADMAKSH MISHRA</h1>
-<h3 align="center">Learning and becoming better EVERY-DAY</h3>
+<h3 align="center">Don't make a sound... </h3>
+<h2 align="center">Unless you make it loud.</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=padmaksh-mishra&label=Visitors&color=0e83be&style=flat" alt="padmaksh-mishra" /> </p>
 
@@ -7,7 +8,7 @@
 
 - ⚡ Fun fact **I keep on breaking my system ٩(◕‿◕)۶**
 
-- 😁 **I like linux** and keep on trying various distros
+- 😁 **I like linux** and my current favourite is **FEDORA 35**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

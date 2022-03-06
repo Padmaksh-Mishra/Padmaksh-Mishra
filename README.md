@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm PADMAKSH MISHRA</h1>
+<h1 align="center">Pranam 🙏, I'm PADMAKSH MISHRA 👋</h1>
 <h3 align="center">Don't make a sound... </h3>
 <h2 align="center">Unless you make it loud.</h2>
 

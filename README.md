@@ -1,6 +1,6 @@
 <h1 align="center">Pranam 🙏, I'm PADMAKSH MISHRA 👋</h1>
-<h3 align="center">Don't make a sound... </h3>
-<h2 align="center">Unless you make it loud.</h2>
+<h3 align="center">If you are not willing to risk the usual you will have to settle for the ordinary.</h3>
+<h5 align="right"> -> Jim Rohn </h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=padmaksh-mishra&label=Visitors&color=0e83be&style=flat" alt="padmaksh-mishra" /> </p>
 

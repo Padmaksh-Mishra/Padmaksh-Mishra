@@ -1,4 +1,4 @@
-<h1 align="center">Pranam 🙏, I'm PADMAKSH MISHRA 👋</h1>
+<h1 align="center">Hello 🙏, I'm PADMAKSH MISHRA 👋</h1>
 <h3 align="center">If you are not willing to risk the usual you will have to settle for the ordinary.</h3>
 <h5 align="right"> -> Jim Rohn </h5>
 

@@ -8,7 +8,7 @@
 
 - ⚡ Fun fact **I keep on breaking my system ٩(◕‿◕)۶**
 
-- 😁 **I like linux** and my current favourite is **FEDORA 35**
+- 😁 **I like linux** and my current favourite is **FEDORA**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -1,14 +1,11 @@
-<h1 align="center">Hello 🙏, I'm PADMAKSH MISHRA 👋</h1>
+<h1 align="center">Hello 🙂, I'm PADMAKSH MISHRA 👋</h1>
 <h3 align="center">If you are not willing to risk the usual you will have to settle for the ordinary.</h3>
 <h5 align="right"> -> Jim Rohn </h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=padmaksh-mishra&label=Visitors&color=0e83be&style=flat" alt="padmaksh-mishra" /> </p>
 
 - 📫 How to reach me **PERSONAL: padmakshmishra@gmail.com OFFICIAL: padmaksh_2101cs56@iitp.ac.in**
-
-- ⚡ Fun fact **I keep on breaking my system ٩(◕‿◕)۶**
-
-- 😁 **I like linux** and my current favourite is **FEDORA**
+- 😁 **I love linux** and my current favourite is **FEDORA**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
